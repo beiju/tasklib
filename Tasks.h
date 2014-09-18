@@ -20,15 +20,4 @@
 #include "MoveToTargetTask.h"
 #include "ServoTask.h"
 
-// Specific simple tasks
-#include "DriveAtSpeedTask.h"
-#include "GripperGripTask.h"
-#include "GripperMoveTask.h"
-#include "RadiationStatusTask.h"
-#include "BrakeTask.h"
-
-// Specific compound tasks
-#include "DriveTask.h"
-#include "GripTask.h"
-
 #endif
